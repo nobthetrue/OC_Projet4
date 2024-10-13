@@ -19,7 +19,7 @@ body {
 }
 
 .top-header .name {
-	font-size: 26px;
+	font-size: 30px;
 }
 
 .nav ul {
@@ -77,9 +77,9 @@ body {
 .about-me__title {
 	margin-top: 1em;
 	margin-bottom: 60px;
-	font-size: 30px;
+	font-size: 26px;
 }
-.about-me__introduction {
+.about-me__introduction span {
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
@@ -96,6 +96,7 @@ body {
 .title{
 	text-align: center;
 	padding-block: 2em;
+	font-size: 26px;
 }
 .gallery .nav {
 	justify-content: center;
