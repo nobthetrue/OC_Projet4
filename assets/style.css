@@ -186,12 +186,9 @@ body {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	margin: 20px 6vw 20px 6vw;
-}
-
-.gallery {
-    transform-origin: top left;
+	transform-origin: top left;
     transition: transform 0.3s ease;
-    transform: scale(1); 
+    transform: scale(1);
 }
 
 .scale-up {
@@ -237,6 +234,7 @@ body {
 .conteneur-image{
 	width: 29vw;
 	height: 29vw;
+	max-width: 650px;
 }
 
 .gallery-item {
