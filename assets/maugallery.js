@@ -15,7 +15,7 @@ function handleButtonClick(button) {
         btn.style.color = '';
     });
 
-    button.style.backgroundColor = '#c76716';
+    button.style.backgroundColor = '#974D11';
     button.style.color = 'white';
 
     const category = button.innerText;
