@@ -334,6 +334,11 @@ body {
 	flex : 2;
 
 }
+
+.form-container span {
+	font-style: italic;
+}
+
 form {
 	display: flex;
 	flex-direction: column;
